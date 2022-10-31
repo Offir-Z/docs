@@ -4,4 +4,7 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache
+Astrix API
+----------
+
+Just text

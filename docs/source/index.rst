@@ -9,5 +9,4 @@ Contents
 .. toctree::
 
    onboarding
-   api
    usage

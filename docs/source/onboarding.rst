@@ -1,7 +1,7 @@
+Onboarding
+==========
+
 .. autosummary::
    :toctree: generated
 
-   Astrix
-   
-   Onboarding
-   ==========
+Astrix Onboarding Info

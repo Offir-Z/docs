@@ -7,6 +7,7 @@ Contents
 --------
 
 .. toctree::
-   usage
+
    onboarding
    api
+   usage

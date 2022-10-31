@@ -1,1 +1,7 @@
-Onboarding Manuals
+.. autosummary::
+   :toctree: generated
+
+   Astrix
+   
+   Onboarding
+   ==========

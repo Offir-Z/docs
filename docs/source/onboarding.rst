@@ -12,3 +12,6 @@ Astrix Onboarding Info
 :doc:`m365 <onboarding/m365>`
 
 :ref:`onboarding/m365`
+:ref:`/onboarding/m365`
+
+

@@ -6,12 +6,6 @@ Onboarding
 
 Astrix Onboarding Info
 
-:ref:`m365`
-<365>
-:doc:`m365 </onboarding/m365>`
+M365
+----
 :doc:`m365 <onboarding/m365>`
-
-:ref:`onboarding/m365`
-:ref:`/onboarding/m365`
-
-
